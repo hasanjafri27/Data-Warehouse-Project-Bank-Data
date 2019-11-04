@@ -1,0 +1,1 @@
+id	districtname	region	noofinhibitants	numberofmuncipalitieswithinhibitants<499	500-1999	2000-9999	>10000	noofcities	urbaninhabitants	avgsalary	unemploymentrate'95	96	no.ofentrepreneurs	crimesin'95	96 
